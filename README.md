@@ -55,9 +55,35 @@ public class ArrayInputExample {
         }
     }
 }
+🎯 Purpose
+
+The purpose of this repository is to:
+
+Practice core Java programming concepts
+
+Understand loops and arrays
+
+Learn how to take input from users
+
+Improve programming skills for interviews and placements
+
+🚀 Future Improvements
+
+Add more Java programs
+
+Include object-oriented programming examples
+
+Add data structures programs
+
+👨‍💻 Author
+
+Manjunath
+Computer Science Engineering Student
+Karnataka, India
 
 
-Add array programs
+**Add array programs
 Add loop practice programs
 Add factorial and sum programs
 Add scanner input examples
+**
