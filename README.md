@@ -55,3 +55,9 @@ public class ArrayInputExample {
         }
     }
 }
+
+
+Add array programs
+Add loop practice programs
+Add factorial and sum programs
+Add scanner input examples
