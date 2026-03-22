@@ -1,7 +1,13 @@
+import java.util.Scanner;
+
 public class ReverseString {
 
     public static void main(String[] args) {
-     String s="hello";
+    Scanner sc=new Scanner(System.in);
+
+    System.out.println("enter a string");
+    String s=sc.nextLine();
+    
      String reversed=new StringBuilder(s).reverse().toString();
      System.out.println(reversed);        
     }
