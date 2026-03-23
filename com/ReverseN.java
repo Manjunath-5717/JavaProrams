@@ -1,7 +1,11 @@
+import java.util.Scanner;
 public class ReverseN {
 
     public static void main(String[] args) {
-        int n=1234;
+        Scanner S=new Scanner(System.in);
+
+        System.out.println("enter a number");
+        int n=S.nextInt();
         int reversed=0;
         while(n!=0){
             int digit=n%10;
@@ -10,5 +14,6 @@ public class ReverseN {
            
     }
      System.out.println(reversed);
-        }
+       
+    }
 }
