@@ -1,7 +1,11 @@
+import java.util.Scanner;
 public class Reversepa {
     
     public static void main(String[] args) {
-        int n=121;
+    Scanner sc=new Scanner(System.in);
+
+    System.out.println("Enter a Number");
+    int n=sc.nextInt();
         int  reversed=0;
         int original=n;
 
