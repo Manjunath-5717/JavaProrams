@@ -1,6 +1,6 @@
 public class Developer extends Employee{
 	
-  
+  @override
   void action() {
 	  System.out.println("developing software");
   }

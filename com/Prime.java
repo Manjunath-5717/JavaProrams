@@ -1,4 +1,4 @@
-public class Prime {
+public classPrime  {
     public static void main(String[] args) {
         int num=3;
         int count=0;
