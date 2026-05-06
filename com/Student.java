@@ -3,7 +3,7 @@ public class Student {
     String name;
 
     public static void main(String[] args) {
-        Student s=new Student();
+        Student s=new Student();//default  constrouctor
         s.id=20;
         s.name="manju";
 
