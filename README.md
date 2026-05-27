@@ -13,6 +13,7 @@ This repository contains basic Java programs created for practicing fundamental 
 - User Input using Scanner
 - Basic Arithmetic Programs
 - Methods in Java
+- Method overloding in java
 
 ## 📂 Programs Included
 
