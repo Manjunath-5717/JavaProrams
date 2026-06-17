@@ -26,7 +26,8 @@ public class HashSetExample {
 	System.out.println(hm.values());
 	
 	System.out.println(hm.entrySet());
-	
+		
+	//size 
 	System.out.println(hm.size());
 	
 	System.out.println(hm.isEmpty());
