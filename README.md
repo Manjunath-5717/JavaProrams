@@ -32,8 +32,7 @@ Some of the Java programs in this repository:
 ## 💻 Example Code
 
 Example of taking input in an array and printing it using a loop:
-
-```java
+---java---
 import java.util.Scanner;
 
 public class ArrayInputExample {
